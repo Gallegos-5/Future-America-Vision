@@ -96,3 +96,4 @@ See the [LICENSE](./LICENSE) file for details.
 [Discuss Future America Vision and these acts here.](https://github.com/Gallegos-5/G5-Portfolio/discussions)
 
 ---
+**Back to the G5 Portfolio:** [https://github.com/Gallegos-5](https://github.com/Gallegos-5)
