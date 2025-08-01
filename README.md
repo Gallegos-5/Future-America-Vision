@@ -1,6 +1,9 @@
 # Future America Vision
+
 **Authored and curated by Lucas Gallegos**
-**A new era for U.S. democracy—public authorship, fearless innovation, and true accountability for all.**
+
+A new era for U.S. democracy—public authorship, fearless innovation, and true accountability for all.
+
 
 ---
 
