@@ -67,7 +67,7 @@ For the first time, you can see the source code of governance.
 
 ## Attribution
 
-Drafted and curated by Lucas Gallegos, 21-year-old pre-med biology student.
+Drafted and curated by Lucas Gallegos
 © 2025, Gallegos-5
 Contact: g5policyteam@gmail.com
 
@@ -76,9 +76,11 @@ Contact: g5policyteam@gmail.com
 
 ## Support This Project
 
-If you’d like to help fund open-source policy reform, you can tip the author:  
-**Venmo:** [@g5policy](https://venmo.com/g5policy)  
-*(Any amount helps keep public-interest policy moving forward!)*
+This project was created and published by Lucas Gallegos, a 21-year-old pre-med biology student with no outside funding.  
+If you want to help keep open-source policy reform moving, any support is deeply appreciated.
+
+**Venmo:** [@g5policy](https://venmo.com/g5policy)
+
 
 ---
 
