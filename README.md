@@ -67,9 +67,10 @@ For the first time, you can see the source code of governance.
 
 ## Attribution
 
-Drafted and curated by Lucas Gallegos  
-© 2025  
+Drafted and curated by Lucas Gallegos, 21-year-old pre-med biology student.
+© 2025, Gallegos-5
 Contact: g5policyteam@gmail.com
+
 
 ---
 
