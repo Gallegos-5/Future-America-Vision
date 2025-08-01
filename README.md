@@ -64,11 +64,10 @@ For the first time, you can see the source code of governance.
 **You decide what comes next.**
 
 ---
-
 ## Attribution
 
-Drafted and curated by Lucas Gallegos
-© 2025, Gallegos-5
+Drafted by Lucas Gallegos  
+© 2025, Gallegos-5  
 Contact: g5policyteam@gmail.com
 
 
