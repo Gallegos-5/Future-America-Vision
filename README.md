@@ -68,11 +68,11 @@ This repo unites four fundamental acts—each a pillar for a government and soci
                            │             Act (Sandbox Pilots)    │
                            └──────────────────┬─────────────────┬┘
                                               │                 │
-    ┌───────────────────────────────┐         │     ┌──────────────────────────────┐
+    ┌───────────────────────────────┐         │     ┌───────────▼──────────────────┐
     │    Founders' Promise &        │◄────────┘     │   Scientific Innovation      │
     │     American Renewal Act      │               │ Acceleration & Scaling Act   │
     │   (Perpetual Audit & Oversight│               │        (ASAI - Moonshot R&D) │
-    └──────────────┬────────────────┘               └──────────────┬───────────────┘
+    └──────────────▲────────────────┘               └──────────────┬───────────────┘
                    │                                               │
                    │         Hash-chained, DOI, Open Data          │
                    └───────────────────────────────────────────────┘
