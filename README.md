@@ -211,6 +211,15 @@ For the first time, you can see the _source code_ of governance—**and the only
 > The future of law is open, auditable, and yours to shape.**
 
 **You decide what comes next.**
+## 🤝 Contributing
+
+This project is open-source and designed to improve with your feedback and fixes!
+
+- **If you spot errors (typos, naming issues, broken cross-references, etc.),** please open an [Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) or submit a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests).
+- If you have ideas for features, improvements, or alternative implementations, fork the repo and share your work!
+- All suggestions, critiques, and corrections are welcome—this stack is meant to evolve.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
