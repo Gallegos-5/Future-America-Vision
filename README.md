@@ -76,6 +76,10 @@ This repo unites four fundamental acts—each a pillar for a government and soci
                    │                                               │
                    │         Hash-chained, DOI, Open Data          │
                    └───────────────────────────────────────────────┘
+> **Note:**  
+> The above diagram provides only a surface-level view of the relationships between the core acts.  
+> In reality, each act is deeply interoperable, with overlapping data flows, shared audit mechanisms, and continuous feedback loops that enable adaptive policy, open science, and real-time oversight.  
+> The true complexity and potential of the system—especially its technical integration and circular improvement—extend far beyond what can be represented in a simple diagram.
 
 ---
 
